@@ -2,7 +2,7 @@
 
  [1.1.Concepte de progama informàtic](https://github.com/Daniblanco/m5uf1/blob/master/programa_informatic.md)
  
- [1.2.Codi font,codi objecte i codi executble; màquines virtuals]
+ [1.2.Codi font,codi objecte i codi executble; màquines virtuals](https://github.com/Daniblanco/m5uf1/blob/master/codi_font.md)
  
  [1.3.Tipus de llenguatge de programació]
  
