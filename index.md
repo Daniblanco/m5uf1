@@ -6,7 +6,7 @@
  
  [1.3.Tipus de llenguatge de programació](https://github.com/Daniblanco/m5uf1/blob/master/tipus.md)
  
- [1.4.Paradigmes de programació]
+ [1.4.Paradigmes de programació](https://github.com/Daniblanco/m5uf1/blob/master/paradigmes.md)
  
  [1.5.Característiques dels llenguatges més difosos]
  
