@@ -10,4 +10,4 @@
  
  [1.5.Característiques dels llenguatges més difosos](https://github.com/Daniblanco/m5uf1/blob/master/difosos.md)
  
- [1.6. Fases del desenvolupament d'una aplicació: anàlisi, disseny, codificació, proves, documentació, manteniment i explotació, entre  d'altres.]
+ [1.6. Fases del desenvolupament d'una aplicació: anàlisi, disseny, codificació, proves, documentació, manteniment i explotació, entre  d'altres.](https://github.com/Daniblanco/m5uf1/blob/master/fases.md)
